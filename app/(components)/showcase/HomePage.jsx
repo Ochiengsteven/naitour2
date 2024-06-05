@@ -24,7 +24,7 @@ const HomePage = () => {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="https://nextui.org/images/card-example-4.jpeg"
+          src="https://karenblixengroup.com/wp-content/uploads/2018/03/nairobinationalparks-web.jpg"
         />
       </Card>
       <Card className="col-span-12 sm:col-span-4 h-[300px]">
@@ -40,7 +40,7 @@ const HomePage = () => {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="https://nextui.org/images/card-example-3.jpeg"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTadMqvSzeHzFC-b-xLlGzpKQ2vLWV8TOWuiw&s"
         />
       </Card>
       <Card className="col-span-12 sm:col-span-4 h-[300px]">
@@ -56,7 +56,7 @@ const HomePage = () => {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="https://nextui.org/images/card-example-2.jpeg"
+          src="https://africantravelcanvas.com/wp-content/uploads/2019/05/African-Travel-Canvas-Wildebeest-Animal-Facts-Wilderness-Safaris-1.jpg"
         />
       </Card>
       <Card
@@ -73,7 +73,7 @@ const HomePage = () => {
           removeWrapper
           alt="Card example background"
           className="z-0 w-full h-full scale-125 -translate-y-6 object-cover"
-          src="https://nextui.org/images/card-example-6.jpeg"
+          src="https://nellions.co.ke/wp-content/uploads/2022/03/pexels-suzy-hazelwood-3004909.jpg"
         />
         {/* <CardFooter className="absolute bg-white/30 bottom-0 border-t-1 border-zinc-100/50 z-10 justify-between">
           <div>
@@ -101,7 +101,7 @@ const HomePage = () => {
           removeWrapper
           alt="Relaxing app background"
           className="z-0 w-full h-full object-cover"
-          src="https://nextui.org/images/card-example-5.jpeg"
+          src="https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/a7/72/ac.jpg"
         />
         {/* <CardFooter className="absolute bg-black/40 bottom-0 z-10 border-t-1 border-default-600 dark:border-default-100">
           <div className="flex flex-grow gap-2 items-center">
@@ -121,6 +121,14 @@ const HomePage = () => {
             Get App
           </Button>
         </CardFooter> */}
+      </Card>
+      <Card className="w-[80vw] bg-transparent">
+        <h3 className="w-full p-4 text-5xl text-white text-center">
+          Explore the raw beauty of nairobi kenyan arts, nature, galleries and
+          Kenyan culture through the stories. Choose from a wide variety of
+          various destinations ranging from free to paid. Connect with fellow
+          hikers, explorers and trip guides.
+        </h3>
       </Card>
     </div>
   );

@@ -4,7 +4,7 @@ import HomePage from "./(components)/showcase/HomePage";
 
 export default function Page() {
   return (
-    <div className="min-h-screen bg-black">
+    <div className="min-h-screen max-w-screen bg-black">
       <HomePage />
     </div>
   );

@@ -10,13 +10,13 @@ import {
 
 const Nav = () => {
   return (
-    <Navbar>
+    <Navbar className="bg-black">
       <NavbarBrand>
         <p className="font-bold text-inherit">NaiTour</p>
       </NavbarBrand>
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
         <NavbarItem>
-          <Link color="foreground" href="#">
+          <Link className="text-white" href="#">
             Explore
           </Link>
         </NavbarItem>
@@ -26,7 +26,7 @@ const Nav = () => {
           </Link>
         </NavbarItem>
         <NavbarItem>
-          <Link color="foreground" href="#">
+          <Link className="text-white" href="#">
             Suggestions
           </Link>
         </NavbarItem>
